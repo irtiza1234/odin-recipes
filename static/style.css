@@ -1,0 +1,33 @@
+body {
+    outline: 2px solid red;
+    background-color: black;
+}
+
+* {
+    color: purple;
+    text-align: center;
+    font-size: large;
+}
+
+.image
+.caption{
+    color:blue;
+    text-emphasis: 3;
+}
+
+.image {
+    height: auto;
+    width: 500px;
+}
+
+.image .caption {
+    font-size: medium;
+    color: aqua;
+}
+
+.caption {
+    color: brown;
+}
+
+
+  
